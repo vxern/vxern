@@ -1,5 +1,6 @@
-I'm mainly working on:
+I'm working on:
 - [Minecraft translations](https://crowdin.com/project/minecraft) into Silesian and Romanian.
+- [Allumeria translations](https://store.steampowered.com/app/3516590/Allumeria/) into Polish.
 - [Learn Romanian](https://learnromanian.co.uk/socials/discord), the largest Discord community dedicated to the Romanian language.
   - [learnromanian.co.uk](https://learnromanian.co.uk), the largest collection of resources to learn Romanian.
   - [Rost](https://github.com/LearnRomanian/rost), the community bot managing <u>Learn Romanian</u>.
