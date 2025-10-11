@@ -1,3 +1,5 @@
+[![](https://img.youtube.com/vi/hi3kNm9tl-Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=hi3kNm9tl-Y)
+
 I'm working on:
 - [Minecraft translations](https://crowdin.com/project/minecraft) into Silesian and Romanian.
 - [Allumeria translations](https://store.steampowered.com/app/3516590/Allumeria/) into Polish.
