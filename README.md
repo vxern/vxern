@@ -1,7 +1,7 @@
 # <p align="left"><img src="https://github.com/user-attachments/assets/2fa8fccb-92f7-4af2-8f83-3e14124518ad" width="40" /></p><p align="center">vxern<br><sup><sub><sup>Dorian Mateusz Oszczęda</sup></sub></sup></p><p align="right"><img src="https://github.com/user-attachments/assets/2fa8fccb-92f7-4af2-8f83-3e14124518ad" width="40" /></p>
 
 ### I'm working on:
-- [silesian.eu](https://github.com/vxern/silesian/tree/begin-creating-website/website), the aggregator for Silesian dictionaries.
+- [silesian.eu](https://silesian.eu), the aggregator for Silesian dictionaries.
 - [Translating Minecraft](https://crowdin.com/project/minecraft) into Silesian and Romanian.
 - [Translating Allumeria](https://store.steampowered.com/app/3516590/Allumeria/) into Polish.
 - [Proofreading Ślōnski Gothic](https://slaskigothic.pl/) in Silesian.
