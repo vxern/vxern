@@ -15,8 +15,9 @@
 ### Author of:
 - [`synadart`](https://github.com/vxern/synadart) - 🧠 A simple, fully documented neural network library.
 - [`human_file_size`](https://github.com/vxern/human_file_size) - 📏 Get a human representation of the size of your files.
+- [`discord.pony`](https://github.com/vxern/discord.pony) - 📜 A Pony library for working with Discord's API.
 - [`robots_txt`](https://github.com/vxern/robots_txt) - ⚙️ A quality `robots.txt` ruleset parser.
-- [`gatoeba`](https://github.com/vxern/tatoeba) - 📜 A complete, documented API wrapper for querying and retrieving sentences from the Tatoeba corpus.
+- [`tatoeba.gleam`](https://github.com/vxern/tatoeba) - 📜 A complete, documented API wrapper for querying and retrieving sentences from the Tatoeba corpus.
 - [`dexonline-scraper`](https://github.com/LearnRomanian/dexonline-scraper) - 🇷🇴 A performant, battle-tested scraper for `dexonline.ro`.
 - [`wiktionary-scraper`](https://github.com/LearnRomanian/wiktionary-scraper) - 🇬🇧 An extensible, robust and lightweight (45kB) scraper for `wiktionary.org`.
 
