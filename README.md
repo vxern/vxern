@@ -7,8 +7,8 @@
 ### I've previously worked on:
 - [Translating Allumeria](https://store.steampowered.com/app/3516590/Allumeria/) into Polish.
 - [Proofreading Ślōnski Gothic](https://slaskigothic.pl/) in Silesian.
-- [Learn Romanian](https://learnromanian.co.uk/socials/discord), the largest Discord community dedicated to the Romanian language.
-- [learnromanian.co.uk](https://learnromanian.co.uk), the largest collection of resources to learn Romanian.
+- [Learn Romanian](https://learnromanian.co.uk/socials/discord), the largest community on Discord dedicated to learning the Romanian language.
+- [learnromanian.co.uk](https://learnromanian.co.uk), a collection of resources to learn Romanian.
 - [Rost](https://github.com/LearnRomanian/rost), the community bot managing <u>Learn Romanian</u>.
 - [Logos](https://github.com/LearnRomanian/logos), the application for language-learning communities on Discord.
 
