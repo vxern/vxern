@@ -9,8 +9,8 @@
 - [Proofreading Ślōnski Gothic](https://slaskigothic.pl/) in Silesian.
 - [Learn Romanian](https://learnromanian.co.uk/socials/discord), the largest community on Discord dedicated to learning the Romanian language.
 - [learnromanian.co.uk](https://learnromanian.co.uk), a collection of resources to learn Romanian.
-- [Rost](https://github.com/vxern/rost), the community bot managing <u>Learn Romanian</u>.
-- [Logos](https://github.com/vxern/logos), the application for language-learning communities on Discord.
+- **Rost**, the community bot managing <u>Learn Romanian</u>.
+- **Logos**, the application for language-learning communities on Discord.
 
 ### Author of:
 - [`synadart`](https://github.com/vxern/synadart) - 🧠 A simple, fully documented neural network library.
